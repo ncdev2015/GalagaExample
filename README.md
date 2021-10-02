@@ -10,3 +10,7 @@ Playing:
 
 ![In game](https://github.com/ncdev2015/GalagaSample_CocosCreator/blob/master/assets/sample.png)
 
+Requirements:
+
+1. CocosCreator
+2. External Code Editor
