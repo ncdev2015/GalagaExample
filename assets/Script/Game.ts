@@ -11,6 +11,8 @@ const {ccclass, property} = cc._decorator;
 export default class NewClass extends cc.Component {
 
     // LIFE-CYCLE CALLBACKS:
+	
+	// TEST COMMIT GIT REVERSE
 
     onLoad () {
         var manager = cc.director.getCollisionManager();
