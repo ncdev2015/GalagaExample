@@ -1,6 +1,6 @@
 # Galaga Sample
 
-To learn TypeScript with CocosCreator
+Sample Project to learn TypeScript with CocosCreator
 
 Main menu:
 
